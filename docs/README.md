@@ -15,7 +15,7 @@ title:
 
 This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
 
-![./images/poultry.png](https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/poultry.jpg))
+![./images/poultry.png](https://149520306.v2.pressablecdn.com/wp-content/uploads/2021/04/poultry.jpg)
 
 
 ## Team
