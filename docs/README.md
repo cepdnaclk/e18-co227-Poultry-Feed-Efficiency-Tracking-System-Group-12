@@ -19,9 +19,9 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 
 ## Team
--  E/18/017, Aarah J.F., [email](mailto:name@email.com)
--  E/18/177, Khan A.K.M.S., [email](mailto:name@email.com)
--  E/18/304, Rishad N.M., [email](mailto:name@email.com)
+-  E/18/017, Aarah J.F., [email](mailto:jfaarah12@gmail.com)
+-  E/18/177, Khan A.K.M.S., [email](mailto:shamilkhan414@gmail.com)
+-  E/18/304, Rishad N.M., [email](mailto:nmrishad6747@gmail.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)
