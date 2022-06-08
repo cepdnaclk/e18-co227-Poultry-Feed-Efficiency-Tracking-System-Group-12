@@ -3,13 +3,13 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
+repository-name: e18-co227 Poultry Feed Efficiency Tracking System Group-12
 title:
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Poultry Feed Efficiency Tracking System
 
 ---
 
@@ -19,9 +19,9 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/18/017, Aarah J.F., [email](mailto:name@email.com)
+-  E/18/177, Khan A.K.M.S., [email](mailto:name@email.com)
+-  E/18/304, Rishad N.M., [email](mailto:name@email.com)
 
 ## Table of Contents
 1. [Introduction](#introduction)
