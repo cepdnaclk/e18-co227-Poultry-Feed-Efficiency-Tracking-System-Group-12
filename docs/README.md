@@ -13,7 +13,6 @@ title:
 
 ---
 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
 
 ![https://149520306.v2.pressablecdn.com/wp-content/uploads/2021/04/poultry.jpg](https://149520306.v2.pressablecdn.com/wp-content/uploads/2021/04/poultry.jpg)
 
