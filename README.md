@@ -57,6 +57,69 @@ here you may think why can't we use existing mobile applications for this purpos
  - Not Customized
     - Existing applications are not customized according to our clients need.
 
+So, in order to overcome these issues, we have proposed some solutions.
+
 ## Proposed Solution
 ![solution](https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide8.PNG)
+
+- Complex
+    - We are designing a easy to use farmer friendly application.
+ - Language
+    - We are providing three languages to use
+       - English
+       - Tamil
+       - Sinhala 
+ - Hybrid application
+    - We are developing a hybrid application that will be common for both Android and IOS.
+ - Customized
+    - We are designing the application in order to fulfull the clients' requirement
+
+## Features of our Application
+ - Login
+     - Username -Password Login / Signup Page
+
+ - Farmer Registration
+     - Enter user’s details : Name , Contact Number (not compulsory)
+
+ - Maintain Farm Details
+     - Enter Details according to the following  Hierarchy.
+         - Farm	
+         - Farm Branch
+         - Shed
+         - Flock
+
+     - Enter  flock details.
+         - Birth date 
+         - Start Date 
+         - Type (Broilers or Layers)  
+         - Strain 
+         - Number of chicks,     
+
+
+ - Monitor feed intake
+    - Enter Feed Intake 
+       - Flock 
+       - Date
+       - Food weight .
+       System should suggest recommended weight  by calculating ( for that you have stored standard information for each strain . Then you know the standard food   weight for a chick in that strain  , number of chicks in the flock)
+
+ - Maintain  Mortality
+    - Enter the number of  deaths  of each flock with the date. 
+    - Then the user knows the available chicks in the flock. 
+
+ - Monitor number of eggs - Layers
+    - Enter the number of eggs  in each flock per selected date.
+    - Can suggest the expected number of eggs  per that flock according  to the strain and  the number of  hens
+
+ - Monitor body weight - Broilers
+    - Enter the number chicks and total weight can calculate average body weight  of the selected flock on the selected  date. (Why average weight : Farmers  don’t    try to  weight each chick  one by one , they will weight sample  of chicks and get the varage )
+
+
+ - Calculate the FCR Layers
+     - System should calculate and show FCR when selecting the particular flock using feeding data and number of eggs
+  
+
+ - Calculate the FCR Broilers 
+     - System should calculate and show FCR when selecting the particular flock using feeding data and body weights
+
 
