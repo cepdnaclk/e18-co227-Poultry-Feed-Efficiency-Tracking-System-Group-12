@@ -5,7 +5,18 @@ ___
 ## Project development repository URL:
 https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System/tree/development
 
-
+## Table of Content
+  * [Introduction](#introduction)
+  * [Problem Overview](#problem-overview)
+      - [Problems in tracking poultry feed efficiency manually](#problems-in-tracking-poultry-feed-efficiency-manually)
+      - [Advantages of electronic database approach](#advantages-of-electronic-database-approach)
+      - [Why we need a mobile Application?](#why-we-need-a-mobile-application)
+      - [Why can't we use existing mobile applications?](#why-cant-we-use-existing-mobile-applications)
+  * [Proposed Solution](#proposed-solution)
+  * [Features of our Application](#features-of-our-application)
+  * [Technology Stack](#technology-stack)
+  * [Plan of work](#plan-of-work)
+  
 
 ## Introduction
 poultry industry is the fastest growing livestock industry in Sri Lanka.
