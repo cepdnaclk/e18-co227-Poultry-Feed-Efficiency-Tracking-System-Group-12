@@ -46,7 +46,7 @@ so we are developing a mobile application which uses this kind of database. Now 
 here you may think why can't we use existing mobile applications for this purpose. Because, there are some problems in that.
 
 #### Why can't we use existing mobile applications?
-![problem](https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide7.PNG)
+<img src="https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide7.PNG" width="600" height="340" />
 
  - Complex
     - Existing applications are not farmer friendly and it's hard to use.
@@ -60,7 +60,7 @@ here you may think why can't we use existing mobile applications for this purpos
 So, in order to overcome these issues, we have proposed some solutions.
 
 ## Proposed Solution
-![solution](https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide8.PNG)
+<img src="https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide8.PNG" width="600" height="340" />
 
 - Complex
     - We are designing a easy to use farmer friendly application.
@@ -122,4 +122,8 @@ So, in order to overcome these issues, we have proposed some solutions.
  - Calculate the FCR Broilers 
      - System should calculate and show FCR when selecting the particular flock using feeding data and body weights
 
+## Technology Stack 
+<img src="https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide20.png" width="700" height="400" />
 
+## Plan of work 
+<img src="https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide21.png" width="700" height="400" />
