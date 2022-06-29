@@ -13,7 +13,7 @@ title:
 
 ---
 ## Project development repository URL:
-https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System/tree/development
+[https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System/tree/development]
 
 
 ---
