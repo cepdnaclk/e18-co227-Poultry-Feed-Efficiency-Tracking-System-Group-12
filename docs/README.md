@@ -157,7 +157,7 @@ So, in order to overcome these issues, we have proposed some solutions.
      - System should calculate and show FCR when selecting the particular flock using feeding data and body weights
 
 ## Technology Stack 
-<img src="https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide20.png" width="700" height="400" />
+![https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide20.png](https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide20.png)
 
 ## Plan of work 
 <img src="https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide21.png" width="700" height="400" />
