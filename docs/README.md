@@ -18,7 +18,7 @@ https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System/t
 
 ---
 
-
+![https://149520306.v2.pressablecdn.com/wp-content/uploads/2021/04/poultry.jpg](https://149520306.v2.pressablecdn.com/wp-content/uploads/2021/04/poultry.jpg)
 
 
 ## Team
