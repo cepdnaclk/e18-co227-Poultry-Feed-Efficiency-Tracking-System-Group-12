@@ -94,7 +94,7 @@ here you may think why can't we use existing mobile applications for this purpos
 So, in order to overcome these issues, we have proposed some solutions.
 
 ## Proposed Solution
-<img src="https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide8.PNG" width="600" height="340" />
+!["https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide8.PNG" width="600" height="340"]("https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide8.PNG" width="600" height="340")
 
 - Complex
     - We are designing a easy to use farmer friendly application.
