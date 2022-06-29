@@ -80,7 +80,7 @@ so we are developing a mobile application which uses this kind of database. Now 
 here you may think why can't we use existing mobile applications for this purpose. Because, there are some problems in that.
 
 #### Why can't we use existing mobile applications?
-<img src="https://github.com/cepdnaclk/e18-co227-Poultry-Feed-Efficiency-Tracking-System-Group-12/blob/main/docs/images/Slide7.PNG" width="600" >
+<img src="images/Slide7.PNG" width="600" >
 
  - Complex
     - Existing applications are not farmer friendly and it's hard to use.
