@@ -163,7 +163,7 @@ So, in order to overcome these issues, we have proposed some solutions.
 <img src="images/Slide21.png" width="700" >
 
 ## Demonstration
-<img src="images/Poultry app.gif" width="300" >
+<img src="images/Poultry app.gif" width="600" >
 
 ## Testing
-<img src="images/test ui.gif" width="300" >
+<img src="images/test ui.gif" width="600" >
