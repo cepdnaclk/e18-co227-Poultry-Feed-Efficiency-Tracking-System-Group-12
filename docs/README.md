@@ -163,4 +163,4 @@ So, in order to overcome these issues, we have proposed some solutions.
 <img src="images/Slide21.png" width="700" >
 
 ## Demonstration
-<img src="images/demo.png" width="700" >
+<img src="images/demo.gif" width="700" >
